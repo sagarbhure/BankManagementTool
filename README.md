@@ -1,2 +1,2 @@
 # Bank Management Tool
-#### todo lmm;km;m
+#### tool for basic banking system
